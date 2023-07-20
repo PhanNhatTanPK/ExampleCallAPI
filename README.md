@@ -16,7 +16,7 @@
       </ul>
     </li>
     <li>
-      Package “http”
+     HTTP package
       <ul>
         <li>Một số phương thức
           <ul>
@@ -28,5 +28,16 @@
         <li>Retrying request</li>
       </ul>
     </li>
-    <li>Còn phần Dio em chưa tìm hiểu xong nên em chưa thêm vào ạ</li>
+    <li>Dio package
+        <ul>
+        <li>Một số phương thức
+          <ul>
+            <li>Get</li>
+            <li>Post</li>
+          </ul>
+        </li>
+        <li>Client</li>
+        <li>Retrying request</li>
+      </ul>
+    </li>
   </ol>
